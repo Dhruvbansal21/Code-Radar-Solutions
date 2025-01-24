@@ -3,6 +3,7 @@ int main()
 {
 char a; 
 printf("");
-scanf("%c\t",&a); 
+scanf("%c",&a); 
+printf("");
 printf("%c",a); 
 return 0; }
