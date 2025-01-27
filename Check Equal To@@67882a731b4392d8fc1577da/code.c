@@ -1,13 +1,14 @@
 #include <stdio.h>
 int main() {
     int a,b;
-    scanf("%d%d",&a&b);
+    scanf("%i%i",&a&b);
     if(a == b)
     {
     printf("True");
     }
-    else{
-        printf("False");
+    else
+    {
+    printf("False");
     }
     return 0;
 }
