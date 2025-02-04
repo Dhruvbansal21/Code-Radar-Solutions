@@ -6,6 +6,7 @@ void main() {
         printf("Eligible\n");
     }
     else{
+        text color(RED)
         printf("Not Eligible\n");
     }
 }
