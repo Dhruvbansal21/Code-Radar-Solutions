@@ -3,9 +3,9 @@ void main() {
     int a,b;
     scanf("%d&d",&a,&b);
     if(a==b*b){
-        printf("Yes\n");
+        printf("Yes");
     }
     else{
-        printf("No\n");
+        printf("No");
     }
 }
