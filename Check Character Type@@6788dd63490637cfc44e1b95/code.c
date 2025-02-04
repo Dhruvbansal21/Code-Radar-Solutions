@@ -9,7 +9,7 @@ int main() {
     else if((a>='a' && a<='z') || ( a>='A' && a<='Z')){
         if(a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u')
         printf("Vowel");
-        else if(a == 'A' || a == 'E' || a == 'I' || a == 'n' || a == 'U')
+        else if(a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U')
         printf("Vowel");
 
         else
