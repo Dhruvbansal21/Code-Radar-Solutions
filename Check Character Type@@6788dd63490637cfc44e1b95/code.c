@@ -4,6 +4,7 @@ int main() {
 
     char a; 
     scanf("%c",&a);
+    a=a.lower();
     if(a >= '0' && a <= '9')
     printf("Digit");
     else if(a>='a' && a<='z'){
