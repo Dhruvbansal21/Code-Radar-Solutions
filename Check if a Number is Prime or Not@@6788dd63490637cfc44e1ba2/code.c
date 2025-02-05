@@ -12,6 +12,7 @@ int main() {
         printf("Not Prime");
         break;
         }
+        i++
         }
     return 0;
 }
