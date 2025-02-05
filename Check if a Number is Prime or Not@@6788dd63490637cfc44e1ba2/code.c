@@ -14,7 +14,7 @@ int main() {
         }
         i++
         }
-        if(i==a){
+        if(i == a){
         printf("Prime");}
         }
     return 0;
