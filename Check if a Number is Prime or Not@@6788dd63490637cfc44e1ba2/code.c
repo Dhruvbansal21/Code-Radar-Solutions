@@ -15,7 +15,7 @@ int main() {
         i++
         }
         if(i==a)
-        printf("Prime")
+        printf("Prime");
         }
     return 0;
 }
