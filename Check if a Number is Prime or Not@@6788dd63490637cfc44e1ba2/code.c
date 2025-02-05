@@ -8,11 +8,14 @@ int main() {
     printf("Not Prime");
     else{
     while(i<a){
-        if(n%i==0)
+        if(n%i==0){
         printf("Not Prime");
         break;
         }
         i++
+        }
+        if(i==a)
+        printf("Prime")
         }
     return 0;
 }
