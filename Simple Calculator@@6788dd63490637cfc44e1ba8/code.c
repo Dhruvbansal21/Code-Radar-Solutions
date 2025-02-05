@@ -20,7 +20,7 @@ int main(){
         
         printf("%d",a/b);
         else
-        printf("invalid");
+        printf("error");
         break;
     }
     return 0;
