@@ -3,19 +3,19 @@ int main() {
     int a,b;
     char c;
     scanf("%d%d",&a,&b);
-    scanf("%c",&c);
+    scanf(" %c",&c);
     switch(c){
         case '+':
-        printf(a+b);
+        printf("%d",a+b);
         break;
         case '-':
-        printf(a-b);
+        printf("%d",a-b);
         break;
         case '*':
-        printf(a*b);
+        printf("%d",a*b);
         break;
         case '/':
-        printf(a/b);
+        printf("%d",a/b);
         break; 
            }
     
