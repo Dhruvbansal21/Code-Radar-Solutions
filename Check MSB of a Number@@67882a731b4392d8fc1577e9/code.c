@@ -2,7 +2,7 @@
 
 int main() {
     long double a;
-    scanf("%Lf",&a);
+    scanf("%lf",&a);
     if(a<<1)
     printf("Set");
     else
