@@ -12,7 +12,7 @@ int main() {
         printf("Not Prime");
         break;
         }
-        i++
+        i++;
         }
         if(i == a){
         printf("Prime");}
