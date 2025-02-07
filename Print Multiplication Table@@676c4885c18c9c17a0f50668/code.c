@@ -6,10 +6,11 @@ int main() {
     scanf("%d",&a);
     while(i<=10){
         t=a*i;
-        printf("2 x ");
+        printf("%d",a);
+        printf(" x ");
         printf("%d",i);
         printf(" = ");
-        printf("%d\n",t);
+        printf("%d\t",t);
         i++;
     }
     
