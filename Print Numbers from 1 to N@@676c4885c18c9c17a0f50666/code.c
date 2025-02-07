@@ -4,7 +4,7 @@
 int main() {
     int a,i;
     scanf("%d",&a);
-    i=1
+    i=1;
     while(i<=a){
         print("%d\t",i);
         i++;
