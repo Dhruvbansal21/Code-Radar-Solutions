@@ -10,7 +10,7 @@ int main() {
         printf(" x ");
         printf("%d",i);
         printf(" = ");
-        printf("%d\t",t);
+        printf("%d\n",t);
         i++;
     }
     
