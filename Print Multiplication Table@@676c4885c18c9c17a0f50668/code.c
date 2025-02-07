@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main() {
+    int a,i,t;
+    i=1;
+    t=1;
+    scanf("%d",&a);
+    while(i<=10){
+        t=a*i;
+        printf("%d",a);
+        printf(" x ");
+        printf("%d",i);
+        printf(" = ");
+        printf("%d",t);
+    }
+    
+    
+    return 0;
+}
