@@ -9,7 +9,7 @@ int main() {
         printf("2 x ");
         printf("%d",i);
         printf(" = ");
-        printf("%d",t);
+        printf("%d\n",t);
         i++;
     }
     
