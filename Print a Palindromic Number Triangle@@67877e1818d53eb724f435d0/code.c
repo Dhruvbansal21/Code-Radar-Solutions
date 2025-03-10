@@ -9,4 +9,5 @@ void main(){
     for(int k=1;k<=N;k++){
         printf("%d", k);
     }
+    printf("\n");
 }
