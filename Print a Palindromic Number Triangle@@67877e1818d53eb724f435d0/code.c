@@ -7,6 +7,6 @@ void main(){
         printf(" ");
     }
     for(int k=1;k<=N;k++){
-        printf("%d", k)
+        printf("%d", k);
     }
 }
