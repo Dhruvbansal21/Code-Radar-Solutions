@@ -3,8 +3,7 @@
 int main() {  
     int N;  
     
-    // Input: side length of the square  
-    printf("Enter the side length of the square: ");  
+    // Input: side length of the square      
     scanf("%d", &N);  
     
     for (int i = 0; i < N; i++) {  
