@@ -20,7 +20,7 @@ int main(){
     //     }
     //     for(g=0;g<)
     // }
- return 0;
+
 
 int n;
 scanf("%d", &n);
@@ -32,5 +32,6 @@ for(int i=0; i<n; i++) {
         printf("*");
     }
     printf("\n");
-}
+    }
+ return 0;
 }
