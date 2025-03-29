@@ -10,10 +10,10 @@ int main(){
     for(j=1;j<=i+1;j++){
         printf("%d",j);
     }    
-    for(j=a-i;j>0;j--)
-     {
-        printf("%d",j);
-     }   
+    // for(j=a-i;j>0;j--)
+    //  {
+    //     printf("%d",j);
+    //  }   
         
         printf("\n");
     }
