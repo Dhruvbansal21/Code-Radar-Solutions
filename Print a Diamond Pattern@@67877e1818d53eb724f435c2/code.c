@@ -22,9 +22,9 @@ int main(){
         for(j=i;j<a;j++){
             printf("*");
         }
-    //    for(j=1;j<a-1;j++){
-    //         printf("*");
-    //     }
+       for(j=i;j<a-1;j++){
+            printf("*");
+        }
         printf("\n");
     }
 
