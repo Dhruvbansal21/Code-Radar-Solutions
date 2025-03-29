@@ -1,11 +1,15 @@
-#include<stdio.h>
-void main(){
-    int N;
-    scanf("%d",&N);
-    for(int i=1;i<N;i++){
-      
-        printf(" ");
-    
-    printf("\n");}
-    return 0;
-    }    
+#include <stdio.h>
+int main(){
+    int i,j,a,c;
+    scanf("%d",&a);
+
+    for(i=0;i<a;i++){
+        c='A';
+        for(j=0;j<a-i;j++){
+            printf("%c ",c);
+            c++;
+        }printf("\n");
+    }
+
+ return 0;
+}Loading Code...
