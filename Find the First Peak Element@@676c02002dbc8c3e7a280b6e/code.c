@@ -18,6 +18,9 @@ for(int i=0;i<a;i++){
         break;
       
         }
+        else if (i > 0 && i < N - 1 && arr[i] > arr[i - 1] && arr[i] > arr[i + 1]) {  
+            printf("%d\n", arr[i]);  
+            return 0;
 }
     return 0;
 }
