@@ -12,6 +12,9 @@ for(int i=1;i<a;i++){
         printf("Not Sorted");
         break;
         }
+        else{
+            printf("sorted");
+        }
 }
 
     return 0;
