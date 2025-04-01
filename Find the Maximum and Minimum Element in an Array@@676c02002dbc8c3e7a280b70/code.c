@@ -9,10 +9,10 @@ int main(){
 int t;
 for(i=0;i<a-1;i++){
     for(int j=0;j<a-i-1;j++){
-        if(a[i]>a[i+1]){
-            t=a[i];
-            a[i]=a[i+1];
-            a[i+1]=t;
+        if(arr[i]>arr[i+1]){
+            t=arr[i];
+            arr[i]=arr[i+1];
+            arr[i+1]=t;
        }
     }
 }
