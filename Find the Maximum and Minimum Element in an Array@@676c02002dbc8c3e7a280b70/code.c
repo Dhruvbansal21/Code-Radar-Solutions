@@ -16,7 +16,7 @@ for(i=0;i<a-1;i++){
        }
     }
 }
-
+printf("%d %d",arr[0],arr[a-1]);
 
 
 
